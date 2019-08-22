@@ -1,2 +1,2 @@
 # eocodes
-earth observation codes from R and Python
+earth observation codes with R and Python
